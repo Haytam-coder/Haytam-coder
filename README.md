@@ -43,14 +43,16 @@ Klassische Energieberatung ist teuer und langsam, Tipps im Netz sind zu allgemei
 
 ---
 
-### 🧾 ChaDe: Kassen- und Verwaltungssystem für kleine Märkte
-**ChaDe GbR (Mitgründer)** · [Details](projekte/chade.md)
+### 🧾 ChaDe Personal: Personalverwaltung für den Einzelhandel
+**ChaDe GbR (Mitgründer)** · [Website](https://vorschau.chade.app) · [Details](projekte/chade.md)
 
-Zusammen mit einem Kollegen baue ich eine Software, mit der kleine Märkte ihre Kasse und Verwaltung digital führen. Der erste Kunde nutzt das System im Pilotbetrieb. Das System ist darauf ausgelegt, dass jeder Kunde eine eigene Datenbank und Subdomain bekommt. Systemmails wie Einladungen oder Passwort-Resets laufen ohne Open- oder Klick-Tracking über unsere eigene Domain.
+Unser eigenes Produkt, das ich mit meinem Mitgründer entwickle. Ein Supermarkt plant und erfasst damit seit Juli 2026 täglich die Arbeitszeiten seines ganzen Teams. Schichten werden per Drag & Drop geplant, und die App warnt, wenn die gesetzliche Ruhezeit nicht eingehalten wird. Mitarbeitende stempeln mit ihrer Karte an einem Terminal, das wir selbst gebaut haben. Urlaub wird mit einem Klick freigegeben, und am Monatsende gehen die Stunden als CSV in die Lohnabrechnung. Eine direkte Anbindung an Lexoffice ist in Planung. Dazu gibt es eine Team-App mit Schicht-Börse.
 
-`Vercel` `Supabase` `Resend` `Cloudflare` `Multi-Tenant`
+![ChaDe Personal Schichtplan](assets/chade-schichtplan.jpg)
 
-*Der Code ist Kundenprojekt und deshalb nicht öffentlich.*
+`Supabase` `Vercel` `Resend` `Kartenleser-Terminal` `Multi-Tenant`
+
+*Der Code ist nicht öffentlich. Die Screenshots zeigen Demo-Daten.*
 
 ---
 
