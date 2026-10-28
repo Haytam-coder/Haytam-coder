@@ -46,7 +46,7 @@ Klassische Energieberatung ist teuer und langsam, Tipps im Netz sind zu allgemei
 ### 🧾 ChaDe Personal: Personalverwaltung für den Einzelhandel
 **ChaDe GbR (Mitgründer)** · [Website](https://vorschau.chade.app) · [Details](projekte/chade.md)
 
-Unser eigenes Produkt, das ich mit meinem Mitgründer entwickle. Ein Supermarkt plant und erfasst damit seit Juli 2026 täglich die Arbeitszeiten seines ganzen Teams. Schichten werden per Drag & Drop geplant, und die App warnt, wenn die gesetzliche Ruhezeit nicht eingehalten wird. Mitarbeitende stempeln mit ihrer Karte an einem Terminal, das wir selbst gebaut haben. Urlaub wird mit einem Klick freigegeben, und am Monatsende gehen die Stunden als CSV in die Lohnabrechnung. Eine direkte Anbindung an Lexoffice ist in Planung. Dazu gibt es eine Team-App mit Schicht-Börse.
+Unser eigenes Produkt, das ich mit meinem Mitgründer entwickle. Ein Supermarkt plant und erfasst damit seit Juli 2026 täglich die Arbeitszeiten seines ganzen Teams. Schichten werden per Drag & Drop geplant, und die App warnt, wenn die gesetzliche Ruhezeit nicht eingehalten wird. Mitarbeitende stempeln mit ihrer Karte an einem Terminal, das wir selbst gebaut haben. Urlaub wird mit einem Klick freigegeben, und am Monatsende gehen die Stunden als CSV in die Lohnabrechnung. Eine direkte Anbindung an Lexoffice ist in Planung. Dazu gibt es eine Team-App mit Schicht-Börse. Angefangen hat alles als mein Eigenprojekt zur Arbeitszeiterfassung mit Python-Backend, React-Frontend und einem Arduino-Terminal.
 
 ![ChaDe Personal Schichtplan](assets/chade-schichtplan.jpg)
 
@@ -78,12 +78,14 @@ Ein Chatbot für einen Frankfurter Barbershop, der Fragen zu Preisen, Öffnungsz
 
 ---
 
-### ⏱️ Arbeitszeiterfassung für einen Supermarkt
-**Full-Stack-Eigenprojekt** · [Details](projekte/arbeitszeiterfassung.md)
+### 🚚 Website für die Spedition ELAS
+**Kundenprojekt (Freelance)** · [Live](https://spedition-elas.com) · [Details](projekte/spedition-elas.md)
 
-Eine Web-App, mit der Mitarbeitende eines lokalen Supermarkts ihre Arbeitszeiten stempeln. Ich habe alles allein gebaut: REST-API und Backend in Python, Frontend in React, eine SQL-Datenbank und ein Arduino-Terminal, das die Stempelzeiten direkt an die API schickt.
+Eine Website für eine Spedition aus Magdeburg, die zwei Zielgruppen gleichzeitig anspricht: Kunden schicken eine Transportanfrage, LKW-Fahrer bewerben sich direkt. Die Seite gibt es in sieben Sprachen, darunter Arabisch, Türkisch und Russisch, weil viele Fahrer aus dem Ausland kommen. Dazu gibt es Kontakt per WhatsApp, eine eigene Domain mit DNS-Einrichtung und Transaktions-E-Mails über Resend.
 
-`Python` `React` `SQL` `REST-API` `Arduino`
+![Website Spedition ELAS](assets/elas-website.jpg)
+
+`Webentwicklung` `Mehrsprachig (7 Sprachen)` `DNS` `Resend` `WhatsApp`
 
 ---
 
@@ -92,9 +94,8 @@ Eine Web-App, mit der Mitarbeitende eines lokalen Supermarkts ihre Arbeitszeiten
 
 - **Bewerbungs-Cockpit:** Automatisierte Bewerbungs-Pipeline mit Make.com, Notion und Gmail.
 - **Content-Pipeline:** Automatisierte Tech- und KI-Inhalte für TikTok und Instagram mit Make.com, Claude API und ElevenLabs.
-- **Website für ein Logistikunternehmen:** inklusive DNS-Einrichtung und Transaktions-E-Mails über Resend.
 
-`Make.com` `Claude API` `Notion` `ElevenLabs` `Resend`
+`Make.com` `Claude API` `Notion` `ElevenLabs`
 
 ---
 

@@ -40,6 +40,10 @@ Mitarbeitende sehen ihren Plan und ihre Zeiten auf dem Handy und können Schicht
 
 ![Team-App](../assets/chade-team-app.jpg)
 
+## Wie es angefangen hat
+
+Der erste Prototyp war mein Eigenprojekt zur Arbeitszeiterfassung für einen lokalen Supermarkt. Ich habe ihn allein gebaut: REST-API und Backend in Python, Frontend in React, eine SQL-Datenbank und ein Arduino-Terminal, das die Stempelzeiten direkt an die API schickt. Daraus ist zusammen mit meinem Mitgründer ChaDe Personal entstanden.
+
 ## Technik
 
 - Web-App mit eigener Datenbank und Subdomain pro Kunde
